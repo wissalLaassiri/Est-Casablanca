@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"google",
+				"fa-google-plus"
+			],
+			[
+				"le",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"al",
+				"apache_lookup_uri"
+			],
+			[
+				"act",
+				"action\tAttr"
+			],
+			[
+				"Us",
+				"User"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"do",
+				"donnees"
+			],
+			[
+				"tmp",
+				"tmp2"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"foo",
+				"footer-info"
+			],
+			[
+				"blac",
+				"rgba-black-strong"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"co",
+				"col"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"est",
+				"ESTC"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"Appl",
+				"Applet"
+			],
+			[
+				"form",
+				"formView"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ag",
+				"age"
+			],
+			[
+				"Ag",
+				"age"
+			],
+			[
+				"Pre",
+				"prenom"
+			],
+			[
+				"P",
+				"Prenom"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"ch2"
+			],
+			[
+				"ch",
+				"ch1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/test/hello.php",
+		"/C/xampp/htdocs/chatbot/a.php",
+		"/C/xampp/htdocs/pfe/functions.php",
+		"/C/xampp/htdocs/pfe/mot.php",
+		"/C/xampp/htdocs/pfe/functions_forum.php",
+		"/C/xampp/htdocs/pfe/compteur.txt",
+		"/C/xampp/htdocs/pfe/footer.php",
+		"/C/xampp/htdocs/pfe/header.php",
+		"/C/xampp/htdocs/Estc/header.php",
+		"/C/xampp/htdocs/pfe/gi.php",
+		"/C/xampp/htdocs/pfe/stage.php",
+		"/C/xampp/htdocs/pfe/uptdge.php",
+		"/C/xampp/htdocs/pfe/emp.php",
+		"/C/xampp/htdocs/Estc/css/style00.css",
+		"/C/xampp/htdocs/Estc/mot.php",
+		"/C/xampp/htdocs/Estc/lp.php",
+		"/C/xampp/htdocs/Estc/pres.php",
+		"/C/xampp/htdocs/Estc/natio.php",
+		"/C/xampp/htdocs/Estc/inter.php",
+		"/C/xampp/htdocs/Estc/initial.php",
+		"/C/xampp/htdocs/Estc/compteur.txt",
+		"/C/xampp/htdocs/Estc/footer.php",
+		"/C/xampp/htdocs/Estc/header1.php",
+		"/C/xampp/htdocs/Estc/evenement.php",
+		"/C/xampp/htdocs/pfe/espace-etu.php",
+		"/C/xampp/htdocs/pfe/activite.php",
+		"/C/xampp/htdocs/pfe/cont.php",
+		"/C/xampp/htdocs/pfe/index.php",
+		"/C/xampp/htdocs/pfe/css/style03.css",
+		"/C/xampp/htdocs/pfe/process.php",
+		"/C/xampp/htdocs/Estc/espace-etu.php",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/Estc/views/b.php",
+		"/C/xampp/htdocs/pfe/views/b.php",
+		"/C/xampp/htdocs/pfe/header-etu.php",
+		"/C/xampp/htdocs/Estc/process.php",
+		"/C/xampp/htdocs/pfe/css/style02.css",
+		"/C/xampp/htdocs/pfe/css/style01.css",
+		"/C/xampp/htdocs/version3/init.php",
+		"/C/xampp/htdocs/version3/gm.html",
+		"/C/xampp/htdocs/version3/index2.php",
+		"/C/xampp/htdocs/pfe/depar.php",
+		"/C/xampp/htdocs/test.js",
+		"/C/xampp/htdocs/version3/dba.php",
+		"/C/xampp/htdocs/Estc/header-prof.php",
+		"/C/xampp/htdocs/Estc/header-etu.php",
+		"/C/xampp/htdocs/Estc/views/a.php",
+		"/C/xampp/htdocs/pfe/views/a.php",
+		"/C/xampp/htdocs/Estc/prof/views/a.php",
+		"/C/xampp/htdocs/pfe/connect.php",
+		"/C/xampp/htdocs/pfe/prof/connect.php",
+		"/C/xampp/htdocs/pfe/page.php",
+		"/C/xampp/htdocs/pfe/css/style00.css",
+		"/C/xampp/htdocs/pfe/initial.php",
+		"/C/xampp/htdocs/pfe/download.php",
+		"/C/xampp/htdocs/pfe/views/topic.view.php",
+		"/C/xampp/htdocs/pfe/prof/profil.php",
+		"/C/xampp/htdocs/pfe/prof/footer_prof.php",
+		"/C/xampp/htdocs/pfe/prof/views/topic.view.php",
+		"/C/xampp/htdocs/pfe/prof/views/forum.view.php",
+		"/C/xampp/htdocs/pfe/prof/views/c.php",
+		"/C/xampp/htdocs/pfe/prof/views/b.php",
+		"/C/xampp/htdocs/pfe/prof/views/a.php",
+		"/C/xampp/htdocs/pfe/prof/header_prof.php",
+		"/C/xampp/htdocs/pfe/prof/css/style00.css",
+		"/C/xampp/htdocs/Estc/prof/header_prof.php",
+		"/C/xampp/htdocs/pfe/header-prof.php",
+		"/C/xampp/htdocs/pfe/views/forum.view.php",
+		"/C/xampp/htdocs/pfe/views/c.php",
+		"/C/xampp/htdocs/pfe/views/forum_topics.view.php",
+		"/C/xampp/htdocs/pfe/views/nouveau_topic.view.php",
+		"/C/xampp/htdocs/version3/prof/profil.php",
+		"/C/xampp/htdocs/version3/views/topic.view.php",
+		"/C/xampp/htdocs/pfe/forum_topics.php",
+		"/C/xampp/htdocs/Estc/cont.php",
+		"/C/xampp/htdocs/Estc/formation.php",
+		"/C/xampp/htdocs/Estc/stage.php",
+		"/C/xampp/htdocs/Estc/prof/espaceprof.php",
+		"/C/xampp/htdocs/Estc/espace-professeur.php",
+		"/C/xampp/htdocs/Estc/prof/upcoursge.php",
+		"/C/xampp/htdocs/Estc/prof/upcoursfc.php",
+		"/C/xampp/htdocs/Estc/prof/upcours.php",
+		"/C/xampp/htdocs/Estc/prof/upcours2.php",
+		"/C/xampp/htdocs/Estc/css/style01.css",
+		"/C/xampp/htdocs/Estc/css/style02.css",
+		"/C/xampp/htdocs/Estc/connect.php",
+		"/C/xampp/htdocs/Estc/emp.php",
+		"/F/Estc/emploi.php",
+		"/F/Estc/header - Copie.php",
+		"/F/Estc/header.php",
+		"/C/xampp/htdocs/Estc/visite.php",
+		"/C/xampp/htdocs/Estc/carriere.php",
+		"/C/xampp/htdocs/Estc/index.php",
+		"/F/Estc/carriere - Copie.php",
+		"/F/lp.php",
+		"/C/xampp/htdocs/Estc/admin1.php",
+		"/C/xampp/htdocs/Estc/geo.php",
+		"/C/xampp/htdocs/Estc/admin.php",
+		"/C/xampp/htdocs/Estc/css/admin.css",
+		"/C/xampp/htdocs/Estc/espace-etudiant.php",
+		"/C/xampp/htdocs/Estc/compteur_visites.txt",
+		"/C/xampp/htdocs/Estc/activite.php",
+		"/F/modification/styele78.css",
+		"/C/Users/hp/Desktop/f.h/f.h",
+		"/F/Projet/header.php",
+		"/C/Users/hp/Desktop/dichotomie.h/dichotomie.h",
+		"/C/xampp/htdocs/Estc/prof/footer_prof.php",
+		"/C/xampp/htdocs/Estc/prof/uptdtm.php",
+		"/C/xampp/htdocs/Estc/prof/uptdgm.php",
+		"/C/xampp/htdocs/Estc/prof/uptdge.php",
+		"/C/xampp/htdocs/Estc/prof/process.php",
+		"/C/xampp/htdocs/Estc/prof/upds.php",
+		"/C/xampp/htdocs/Estc/prof/css/style03.css",
+		"/C/xampp/htdocs/Estc/prof/uptdfc.php",
+		"/C/xampp/htdocs/Estc/prof/uptd2.php",
+		"/C/xampp/htdocs/Estc/prof/uptd.php",
+		"/C/xampp/htdocs/Estc/prof/updstm.php",
+		"/C/xampp/htdocs/Estc/prof/updsgm.php",
+		"/C/xampp/htdocs/Estc/prof/updsge.php",
+		"/C/xampp/htdocs/Estc/prof/updsfc.php",
+		"/C/xampp/htdocs/Estc/prof/upds2.php",
+		"/C/xampp/htdocs/Estc/prof/profil.php",
+		"/C/xampp/htdocs/Estc/logout.php",
+		"/C/xampp/htdocs/Estc/prof/topic.php",
+		"/F/modification/espace-etudiant.php",
+		"/C/xampp/htdocs/Estc/css/menu_vertical.css",
+		"/C/xampp/htdocs/version3/index .php",
+		"/C/xampp/htdocs/Estc/views/forum.view.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "connect.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
